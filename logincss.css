@@ -1,0 +1,82 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp1886339.jpg");
+    background-size:100%;
+}
+.details input{
+    color:rgb(0, 0, 0);
+    font-weight: bolder;
+    width:400px;
+    height:20px;
+    margin:10px 0px 10px;
+    background-color: #d8f3dc;
+    opacity: 0.8;
+    margin-left: 65%;
+    border-width: 2px;
+    border-style: solid;
+}
+input[type="checkbox"]{
+    margin-left: 65%;
+}
+#profile{
+    opacity:0.7;
+}
+label{
+    color:#0077b6;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 65%;
+}
+#profiles{
+    margin-bottom: 20px;;
+    height:40px;
+    width:500px;
+}
+h2{
+    margin-top: 0%;
+    margin-left: 65%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:#03045e;
+    width:270px;
+    background-color: (0,0,255,0);
+}
+h2:hover{
+    color:#1965ac;
+    text-decoration: solid underline;
+}
+hr{
+    width:500px;
+    margin: 10px 0px 10px;
+    color:#0077b6;
+    border-width: 5px;
+    border-style: solid;
+}
+button{
+    color:#00b4d8;
+    background-color: #d8f3dc;
+    font-weight: bolder;
+    width:150px;
+    height: 30px;
+    margin-top:10px;
+    margin-left: 73%;
+    opacity:0.8;
+    margin-top: 10px;
+}
+button:hover{
+    background-color: #ffffff;
+    color:black;
+    text-decoration: underline;
+}
+a{
+    color:#ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 0%;
+}
+a:hover{
+    color: #3eea8c;
+}
+h1{
+    margin: 0%;
+    margin-left: 10%;
+}

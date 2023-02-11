@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+div{
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 2%;
+    border-color: rgb(2, 206, 252);
+}
